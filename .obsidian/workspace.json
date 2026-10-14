@@ -1,0 +1,287 @@
+{
+  "main": {
+    "id": "1f6e8a70fe913955",
+    "type": "split",
+    "children": [
+      {
+        "id": "001500e06f8c48ee",
+        "type": "split",
+        "children": [
+          {
+            "id": "eac5aede3817da58",
+            "type": "tabs",
+            "dimension": 32.375,
+            "children": [
+              {
+                "id": "d5ece282d9cbf0bd",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Coding/Frontend System Design.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Frontend System Design"
+                }
+              }
+            ]
+          },
+          {
+            "id": "1e0024a7fc5e086b",
+            "type": "tabs",
+            "dimension": 67.625,
+            "children": [
+              {
+                "id": "2d43caa80a8c4a31",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "terminal:terminal",
+                  "state": {
+                    "terminal:terminal": {
+                      "cwd": "/home/roboticistprogrammer/Documents/Obsidian Vault",
+                      "focus": false,
+                      "profile": {
+                        "args": [],
+                        "environment": [],
+                        "executable": "/bin/sh",
+                        "followTheme": true,
+                        "name": "",
+                        "platforms": {
+                          "linux": true
+                        },
+                        "pythonExecutable": "python3",
+                        "restoreHistory": false,
+                        "rightClickAction": "copyPaste",
+                        "successExitCodes": [
+                          "0",
+                          "SIGINT",
+                          "SIGTERM"
+                        ],
+                        "terminalOptions": {
+                          "documentOverride": null
+                        },
+                        "type": "integrated",
+                        "useWin32Conhost": true
+                      },
+                      "profileSourceId": "linuxIntegratedDefault",
+                      "serial": null,
+                      "userTitle": ""
+                    }
+                  },
+                  "pinned": true,
+                  "icon": "terminal",
+                  "title": "Obsidian Vault"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c4d6853e8f251673",
+    "type": "split",
+    "children": [
+      {
+        "id": "821500442c907fb8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3142f1bbdd49b58b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "e81f0cbe37464275",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "6eaaf2c9235207dd",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "right": {
+    "id": "1b648ddb02b7fd0d",
+    "type": "split",
+    "children": [
+      {
+        "id": "30596dece2b91d13",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ef8fdf76aea09863",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Coding/System Design.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "e20df2c916043333",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Coding/System Design.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "5bc746a19b62e641",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "3bed26c385e2ccee",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "062551bcb0faa47f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "07ef58ae268bd089",
+            "type": "leaf",
+            "state": {
+              "type": "youtube-panel-view",
+              "state": {},
+              "icon": "play-circle",
+              "title": "YouTube player"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "terminal:Open terminal": false,
+      "youtube-panel:Open YouTube player": false
+    }
+  },
+  "active": "2d43caa80a8c4a31",
+  "lastOpenFiles": [
+    "Coding/Frontend System Design.md",
+    "Coding/EDA vs RR.md",
+    "Coding/Clean Architecture-Tips.md",
+    "Coding/System Design.md",
+    "Coding/EDA vs RR",
+    "Tensorrt/TensorRT.md",
+    "Coding/Spec-Driven Dev.md",
+    "RL",
+    "IsaacLab",
+    "Isaacsim",
+    "Docker",
+    "Computer Vision",
+    "Welcome.md",
+    "Coding/Database Design.md",
+    "Workspace-Structure.base",
+    "Agent-Harness",
+    "Untitled.canvas",
+    "Untitled 1.base",
+    "Coding",
+    "BAP/Test Cases.md",
+    "BAP/Potential Citations to use.md",
+    "BAP/Untitled.canvas"
+  ]
+}
